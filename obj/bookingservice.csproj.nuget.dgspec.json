@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alidu\\Downloads\\Ventixe\\event-mvp\\bookingservice\\bookingservice.csproj": {}
+    "C:\\Users\\Alidu\\OneDrive\\Dokument\\Dokument\\Projekt\\Molntjanster\\bookingservice\\bookingservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alidu\\Downloads\\Ventixe\\event-mvp\\bookingservice\\bookingservice.csproj": {
+    "C:\\Users\\Alidu\\OneDrive\\Dokument\\Dokument\\Projekt\\Molntjanster\\bookingservice\\bookingservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alidu\\Downloads\\Ventixe\\event-mvp\\bookingservice\\bookingservice.csproj",
+        "projectUniqueName": "C:\\Users\\Alidu\\OneDrive\\Dokument\\Dokument\\Projekt\\Molntjanster\\bookingservice\\bookingservice.csproj",
         "projectName": "bookingservice",
-        "projectPath": "C:\\Users\\Alidu\\Downloads\\Ventixe\\event-mvp\\bookingservice\\bookingservice.csproj",
+        "projectPath": "C:\\Users\\Alidu\\OneDrive\\Dokument\\Dokument\\Projekt\\Molntjanster\\bookingservice\\bookingservice.csproj",
         "packagesPath": "C:\\Users\\Alidu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alidu\\Downloads\\Ventixe\\event-mvp\\bookingservice\\obj\\",
+        "outputPath": "C:\\Users\\Alidu\\OneDrive\\Dokument\\Dokument\\Projekt\\Molntjanster\\bookingservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alidu\\AppData\\Roaming\\NuGet\\NuGet.Config"
